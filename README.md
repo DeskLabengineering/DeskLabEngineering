@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm DeskLab Engineering 👋
 
-<!--
-**DeskLabengineering/DeskLabEngineering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design custom electronics, high-performance hardware, PCBs, and 3D enclosures from scratch.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools
+* **Hardware Design:** KiCad (Schematic Capture & PCB Layout), Circuit Analysis, Power Filters
+* **3D CAD & Enclosures:** Fusion 360, PETG 3D Printing, Thermal Management
+* **Embedded & Firmware:** C++, ESP32, Arduino, Blynk IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📺 Watch My Projects
+Check out my latest builds, schematics, and teardowns on YouTube!
+
+---
+*Feel free to check out my project repositories below for Gerber files, code, and 3D STLs.*
